@@ -1,6 +1,6 @@
 # Simple Redux Store
 
-This repository demonstrates how to build a Redux style Store in plain JavaScript, for learning purposes.
+This repository demonstrates how to build a Redux style Store, for learning purposes.
 
 > Part of Ultimate Angular's [AngularConnect](https://www.angularconnect.com/2017/workshops/#ultimate-workshop-ngrx) workshop on NGRX.
 
